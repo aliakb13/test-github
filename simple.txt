@@ -5,4 +5,4 @@ Resolusi:
 - Olahraga 3x seminggu
 - Jalan kaki 5000 langkah setiap hari
 - Jam tidur teratur
-- coba conflict
+- conflict solved ya
